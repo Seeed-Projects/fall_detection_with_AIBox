@@ -39,4 +39,4 @@ python app.py -i ./falldown_test.mp4 -n ./yolov8n.hef --show-fps -l ./common/coc
 
 ## Reference
 
-This project reference to the  [Hailo-Application-Code-Examples](https://github.com/hailo-ai/Hailo-Application-Code-Examples).
+This project references  [Hailo-Application-Code-Examples](https://github.com/hailo-ai/Hailo-Application-Code-Examples).
