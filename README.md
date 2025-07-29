@@ -37,6 +37,11 @@ pip install -r requirements.txt
 python app.py -i ./falldown_test.mp4 -n ./yolov8n.hef --show-fps -l ./common/coco.txt
 ```
 
+## Result
+
+[![Watch on YouTube](https://img.youtube.com/vi/H0NaAevLo2k/0.jpg)](https://www.youtube.com/watch?v=H0NaAevLo2k)
+
+
 ## Reference
 
 This project references  [Hailo-Application-Code-Examples](https://github.com/hailo-ai/Hailo-Application-Code-Examples).
